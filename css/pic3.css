@@ -1,0 +1,19 @@
+h1.intro{
+  color: red;
+  font-style: oblique;
+  align-items: center;
+  text-shadow: 85px;
+
+}
+div.images{
+  color: hotpink;
+
+
+}
+div.p{
+  background-color: powderblue;
+  boarder:1px solid powderblue;
+  padding:30px;
+  margin:50px;
+
+}
